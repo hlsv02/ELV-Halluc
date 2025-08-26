@@ -1,9 +1,5 @@
 # ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long Video Understanding
 
-<p align="center">
-    <img src="./assets/SAH.png" width="50%" height="50%">
-</p>
-
 ELV-Halluc is designed for long-video hallucination evaluation, especially enables a systematic investigation of SAH(Semantic Aggregation Hallucinations).
 
 
@@ -28,7 +24,9 @@ ELV-Halluc test set can be found at [ELV-Halluc](https://github.com/hlsv02/ELV-H
 Data for DPO can be found at [DPO](https://github.com/hlsv02/ELV-Halluc/blob/main/data/dpo_data.jsonl)
 ## 📐 Dataset Examples
 
-
+<p align="center">
+    <img src="./assets/data_vd.png" width="100%" height="100%">
+</p>
 
 
 
