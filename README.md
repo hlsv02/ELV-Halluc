@@ -19,18 +19,21 @@ ELV-Halluc is designed for long-video hallucination evaluation, especially enabl
 <p align="center">
     <img src="./assets/stats.png" width="100%" height="100%">
 </p>
-## 📐 Dataset Examples
-
-
-
 
 ## 🔍 Dataset
-<div style="overflow-x: auto; white-space: nowrap;">
-  <img src="./assets/data_vd.png" width="100%" />
-  <img src="./assets/data_action.png" width="95%" />
-  <img src="./assets/data_object.png" width="95%" />
+
+## 📐 Dataset Examples
+<div style="overflow-x: auto; white-space: nowrap; padding: 10px 0;">
+    <img src="./assets/data_vd.png" width="100%" />
+    <img src="./assets/data_action.png" width="95%" />
+    <img src="./assets/data_object.png" width="95%" />
     <img src="./assets/data_dc.png" width="95%" />
 </div>
+
+
+
+
+
 
 
 
