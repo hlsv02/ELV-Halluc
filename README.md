@@ -1,7 +1,7 @@
 # ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long Video Understanding
 
 <p align="center">
-    <img src="./asset/name_logo.png" width="100%" height="100%">
+    <img src="./assets/name_logo.png" width="100%" height="100%">
 </p>
 
 ELV-Halluc is designed for long-video hallucination evaluation, especially enables a systematic investigation of SAH(Semantic Aggregation Hallucinations).
@@ -17,7 +17,7 @@ ELV-Halluc is designed for long-video hallucination evaluation, especially enabl
 
 ## 👀 ELV-Halluc Overview
 <p align="center">
-    <img src="./asset/stats.png" width="100%" height="100%">
+    <img src="./assets/stats.png" width="100%" height="100%">
 </p>
 ## 📐 Dataset Examples
 
@@ -38,7 +38,7 @@ ELV-Halluc is designed for long-video hallucination evaluation, especially enabl
 
 📍 **Leaderboard**: 
 <p align="center">
-    <img src="./asset/table.png" width="100%" height="100%">
+    <img src="./assets/table.png" width="100%" height="100%">
 </p>
 
 
