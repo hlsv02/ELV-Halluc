@@ -21,14 +21,12 @@ ELV-Halluc is designed for long-video hallucination evaluation, especially enabl
 </p>
 
 ## 🔍 Dataset
+### Test Data
+ELV-Halluc test set can be found at https://github.com/hlsv02/ELV-Halluc/blob/main/data/ELV_Halluc.jsonl
 
+### DPO Data
+Data for DPO can be found at https://github.com/hlsv02/ELV-Halluc/blob/main/data/dpo_data.jsonl
 ## 📐 Dataset Examples
-<div style="overflow-x: auto; white-space: nowrap; padding: 10px 0;">
-    <img src="./assets/data_vd.png" width="100%" />
-    <img src="./assets/data_action.png" width="95%" />
-    <img src="./assets/data_object.png" width="95%" />
-    <img src="./assets/data_dc.png" width="95%" />
-</div>
 
 
 
