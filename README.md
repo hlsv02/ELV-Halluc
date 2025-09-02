@@ -6,7 +6,8 @@ ELV-Halluc is designed for long-video hallucination evaluation, especially enabl
 [[📖 arXiv Paper](https://arxiv.org/pdf/2508.21496)] [[📊 Dataset](https://huggingface.co/datasets/HLSv/ELV-Halluc)]
 ---
 
-## 🔥 News
+## 🔥 News\
+* **`2025.9.02`** 🌟 We upload our dataset on [Huggingface](https://huggingface.co/datasets/HLSv/ELV-Halluc).
 * **`2025.8.26`** 🌟 We are very proud to launch ELV-Halluc, the first benchmark for long-video understanding hallucination evaluation.
 
 
@@ -61,4 +62,20 @@ You can simply add your model outputs as an extra key `"model_response"` to each
 <p align="center">
     <img src="./assets/table.png" width="100%" height="100%">
 </p>
+
+## :black_nib: Citation
+
+If you find our work helpful for your research, please consider citing our work.   
+
+```bibtex
+@misc{lu2025elvhallucbenchmarkingsemanticaggregation,
+      title={ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long Video Understanding}, 
+      author={Hao Lu and Jiahao Wang and Yaolun Zhang and Ruohui Wang and Xuanyu Zheng and Yepeng Tang and Dahua Lin and Lewei Lu},
+      year={2025},
+      eprint={2508.21496},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2508.21496}, 
+}
+```
 
