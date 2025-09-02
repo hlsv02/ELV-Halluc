@@ -3,7 +3,7 @@
 ELV-Halluc is designed for long-video hallucination evaluation, especially enables a systematic investigation of SAH(Semantic Aggregation Hallucinations).
 
 
-[[📖 arXiv Paper](https://arxiv.org/pdf/2508.21496)] [[📊 Dataset](https://huggingface.co/datasets/HLSv/ELV-Halluc)]
+[[📖 arXiv Paper](https://arxiv.org/pdf/2508.21496)] [[🤗 Dataset](https://huggingface.co/datasets/HLSv/ELV-Halluc)]
 ---
 
 ## 🔥 News\
