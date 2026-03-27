@@ -1,4 +1,4 @@
-# ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long Video Understanding
+# [CVPR 2026] ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long Video Understanding
 
 [[📖 arXiv Paper](https://arxiv.org/pdf/2508.21496)] [[🤗 Dataset](https://huggingface.co/datasets/HLSv/ELV-Halluc)][[🍎 Project Page](https://elv-halluc.github.io/)]
 
